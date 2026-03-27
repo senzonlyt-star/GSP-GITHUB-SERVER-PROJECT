@@ -1,0 +1,3 @@
+Mar 27 02:39:56.382 mcserver: START: FAIL: Unable to start LinuxGSM
+Mar 27 02:39:56.395 mcserver: START: INFO: LinuxGSM version: v25.2.0
+Mar 27 02:39:56.397 mcserver: START: FAIL: core_exit.sh exiting with code: 1

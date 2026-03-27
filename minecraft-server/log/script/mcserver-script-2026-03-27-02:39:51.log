@@ -1,0 +1,20 @@
+Mar 27 02:38:48.509 mcserver: START: FAIL: Unable to start LinuxGSM
+Mar 27 02:38:48.521 mcserver: START: INFO: LinuxGSM version: v25.2.0
+Mar 27 02:38:48.523 mcserver: START: FAIL: core_exit.sh exiting with code: 1
+Mar 27 02:39:24.578 mcserver: CORE: PASS: Using cached IP as public IP address
+Mar 27 02:39:26.794 mcserver: INSTALL: INFO: Logs installed
+Mar 27 02:39:29.817 mcserver: INSTALL: INFO: Required dependencies already installed.
+Mar 27 02:39:35.736 mcserver: INSTALL: PASS: Downloading minecraft_server.26.1.jar...
+Mar 27 02:39:35.956 mcserver: INSTALL: PASS: clearing tmp directory /workspaces/GSP-GITHUB-SERVER-PROJECT/minecraft-server/lgsm/tmp
+Mar 27 02:39:38.111 mcserver: INSTALL: PASS: Downloading server.properties...
+Mar 27 02:39:38.236 mcserver: INSTALL: INFO: setting hostname
+Mar 27 02:39:38.451 mcserver: INSTALL: INFO: generating admin/rcon password
+Mar 27 02:39:38.919 mcserver: INSTALL: PASS: Install Complete!
+Mar 27 02:39:39.032 mcserver: INSTALL: INFO: LinuxGSM version: v25.2.0
+Mar 27 02:39:39.034 mcserver: INSTALL: PASS: core_exit.sh exiting with code: 0
+Mar 27 02:39:51.275 mcserver: CORE: INFO: Querying http://ip-api.com/json for public IP address
+Mar 27 02:39:51.311 mcserver: CORE: PASS: Queried http://ip-api.com/json for public IP address
+Mar 27 02:39:51.514 mcserver: CORE: PASS: Downloading linuxgsm.sh...
+Mar 27 02:39:53.242 mcserver: START: PASS: Using cached IP as public IP address
+Mar 27 02:39:54.567 mcserver: START: PASS: Using cached IP as public IP address
+Mar 27 02:39:55.209 mcserver: START: INFO: Rotating log files
